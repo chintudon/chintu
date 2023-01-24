@@ -1,1 +1,8 @@
-
+{
+  "AdType": "GoogleAdx",
+  "Banner": "/6499/example/banner",
+  "Interstitial": "/6499/example/interstitial",
+  "NativeBanner": "/6499/example/native",
+  "Rewarded": "/6499/example/rewarded",
+  "count": "4"
+}
